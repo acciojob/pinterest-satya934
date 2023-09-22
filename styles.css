@@ -4,7 +4,11 @@
 	justify-content:left;
 	align-items:center;
 }
-.hero>button{
+.c{
+	width:200px;
+	text-align:center;
+}
+.b{
 	padding:1px;
 	background-color:red;
 	border-radius:5px;
