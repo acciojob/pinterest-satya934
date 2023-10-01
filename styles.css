@@ -5,13 +5,14 @@
 	align-items:center;
 }
 .c{
-	width:200px;
+	width:400px;
 	text-align:center;
 }
 .b{
 	padding:1px;
 	background-color:red;
 	border-radius:5px;
+	color:white;
 }
 
 
