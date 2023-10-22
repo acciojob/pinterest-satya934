@@ -4,6 +4,10 @@
 	justify-content:space-between;
 	align-items:center;
 }
+.hero>img{
+	width:300px;
+	height:350px;
+}
 .c{
 	
 	text-align:center;
