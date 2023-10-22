@@ -1,17 +1,18 @@
 /*  your css code here. If applicable */
 .hero{
 	display:flex;
-	justify-content:left;
+	justify-content:space-between;
 	align-items:center;
 }
 .c{
-	width:400px;
+	
 	text-align:center;
+	
 }
 .b{
-	padding:1px;
+	padding:9px;
 	background-color:red;
-	border-radius:5px;
+	border-radius:4px;
 	color:white;
 }
 
